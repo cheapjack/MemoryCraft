@@ -23,7 +23,8 @@ First off we are going to open the `DSSFinal` folder on your computer and open s
 Try opening `HelloWorld.py` 
 
 You will see this text
-`#!/usr/bin/python
+```
+#!/usr/bin/python
 
 # import what we need to send messages to minecraft
 from mcpi import minecraft
@@ -44,7 +45,8 @@ mc.postToChat("Hello world! Connecting to CloudMaker!")
 
 #We are each playing on a minecraft cloudmaker account try hacking the code above to say your nname and the name of your player name!
 
-# Just change the text within the quotes`
+# Just change the text within the quotes
+```
 
 Anything beginning with a hash `#` is a 'comment'; ie its our notes to remind us what each bit of code does  
 
