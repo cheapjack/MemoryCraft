@@ -2,7 +2,8 @@
 
 ## Workshop 5 The Minecraft Of Things Part 3
 
-![Things](http://36.media.tumblr.com/ab3d03e2a3ee6432030c4bbe6e943658/tumblr_n3vrhu2RYX1tytl75o1_500.jpg)
+![datacraftsmall](https://cloud.githubusercontent.com/assets/128456/11318314/69cdaf12-9044-11e5-8ff5-a6b169b36fcc.png)
+
 
 Today we are going to play with some prototype [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_Things) products made by CloudMaker, **RF-Craft** and some [ShrimpCraft](https://github.com/cheapjack/ShrimpCraft) Kits
 
@@ -18,9 +19,23 @@ The basic principles of the internet of things can be learned in Minecraft: you 
 
 ###Workshop
 
-First off we are going to open the `DSSFinal` folder on your computer and open some `Python` files. Python files are opened with IDLE an IDE (Integrated Development Environment) for Python
+ * Explore exhibition again
+ * Explore the server again
+ * Look at the St Kilda Map
+ * Look at some Internet Of Things Examples
+ * Do an Internet of Things `HelloWorld.py` example
+ * Make some sensors
+ * Send live data to Minecraft with [ShrimpCraft](https://github.com/cheapjack/ShrimpCraft)
+ * Draw graphs by the **RF-Craft** castle
+ * Make a secret door game to transport us to **memory islands**
+ * Use `MemoryCloud.py` to make clouds
+ * Use `/js back(1).blocktype("My Memory\nMy Name", "35:2")` to write memory clouds
 
-Try opening `HelloWorld.py` 
+###Activity
+
+First off we are going to open the `MemoryCraft-Master` folder on your computer desktop and open some `Python` files. Python files are opened with IDLE an IDE (Integrated Development Environment) for Python
+
+Try opening `HelloWorld.py` in the MemoryCraft Folder 
 
 You will see this text
 ```
@@ -48,5 +63,7 @@ mc.postToChat("Hello world! Connecting to CloudMaker!")
 # Just change the text within the quotes
 ```
 
-Anything beginning with a hash `#` is a 'comment'; ie its our notes to remind us what each bit of code does  
+Anything beginning with a hash `#` is a 'comment'; ie its our notes to remind us what each bit of code does... Happy Coding!
+
+### More soon...  
 

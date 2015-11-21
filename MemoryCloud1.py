@@ -28,7 +28,7 @@ mcy = 64
 mcz = 135
 
 # Text Bubble 1
-def Bubble1(startx,starty,startz, chartwidth, chartheight, chartdepth, blocktype, blockid):
+def MemoryCloud1(startx,starty,startz, chartwidth, chartheight, chartdepth, blocktype, blockid):
 	# Main Bubble
 	mc.setBlocks((startx + mcx), (starty-mcy), (startz-mcz), (startx + mcx) + chartwidth, (starty-mcy) + chartheight, (startz - mcz) + chartdepth, blocktype, blockid)
 	# inset bottom
@@ -40,9 +40,9 @@ def Bubble1(startx,starty,startz, chartwidth, chartheight, chartdepth, blocktype
 # If you want to add a bubble diagram, insert your coordinates
 # Then use /js back(1).blocktype("My Message", blockid) while facing the block where you want to write
 
-Bubble1(-343, 75, -15, 44, 14, 2, 35, 0)
-Bubble1(-343, 110, -15, 44, 14, 2, 35, 0)
-#Bubble1(-343, 75, -15, 44, 14, 2, 0)
-#Bubble1(-343, 100, -15, 44, 14, 2, 0)
+MemoryCloud1(-343, 75, -15, 44, 14, 2, 35, 0)
+MemoryCloud1(-343, 110, -15, 44, 14, 2, 35, 0)
+#MemoryCloud1(-343, 75, -15, 44, 14, 2, 0)
+#MemoryCloud1(-343, 100, -15, 44, 14, 2, 0)
 
 #
