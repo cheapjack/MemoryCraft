@@ -16,6 +16,7 @@ mc = minecraft.Minecraft.create(server.address)
 
 # This is our message to the Minecraft server
 mc.postToChat("Hello world! Connecting to CloudMaker!")
+print "Done! Well done"
 
 #We are each playing on a minecraft cloudmaker account try hacking the code above to say your nname and the name of your player name!
 
