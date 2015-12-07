@@ -1,6 +1,12 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*.pyc
+
+# Mac stuff
+.DS_Store
+.idea
+
 
 # C extensions
 *.so
