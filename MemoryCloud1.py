@@ -45,10 +45,10 @@ def MemoryCloud1(startx,starty,startz, chartwidth, chartheight, chartdepth, bloc
 #MemoryCloud1(-343, 75, -15, 44, 14, 2, 0)
 #MemoryCloud1(-343, 100, -15, 44, 14, 2, 0)
 
-# the memory cloud funtction is (myposx, myposy, myposz, width, thickness,
+# the memory cloud funtction is (myposx, myposy, myposz, width, height, thickness,
 # blocktype, blockidoption)
 
-MemoryCloud1(154, 120, -287, 44, 14, 2, 35, 0)
+MemoryCloud1(332, 100, -1185, 44, 4, 2, 35, 0)
 
 
 #
